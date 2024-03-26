@@ -1,0 +1,4 @@
+DOM stands for document object model
+<li><a href="#">Login</a></li>
+        <li><a href="#">Sign up</a></li>
+        <li><a href="#">Contact</a></li>
